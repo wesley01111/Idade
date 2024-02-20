@@ -1,0 +1,47 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 38%, rgba(9,121,108,1) 66%);
+    
+    
+}
+
+section{
+    color: aliceblue;
+    background-color: rgba(158, 152, 152, 0.514);
+    width: 550px;
+    height: 330px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px rgba(19, 10, 10, 0.5);    
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    margin: auto;
+}
+.ano{
+    background-color: rgba(0, 0, 0, 0.479);
+    color: aliceblue;
+    border: none;
+}
+
+header{
+    font-size: 20pt;
+    display: flex;
+    justify-content: center;    
+}
+
+flooter{
+    
+    display: flex;
+    justify-content: center;
+    font-size: 15pt;
+    
+}
+ #foto{
+    width: 150px;
+    height: 180px;
+    border-radius: 80px;
+    display: flex;
+    margin: auto;
+ }
