@@ -11,7 +11,7 @@ section{
     background-color: rgba(158, 152, 152, 0.514);
     width: 550px;
     height: 300px;
-    padding: 10px;
+    padding: 25px;
     border-radius: 20px;
     box-shadow: 4px 4px 10px rgba(19, 10, 10, 0.5);    
     display: flex;
@@ -32,7 +32,7 @@ header{
 }
 
 flooter{
-    margin-top: 110px;
+    margin-top: 40px;
     display: flex;
     justify-content: center;
     font-size: 15pt;
